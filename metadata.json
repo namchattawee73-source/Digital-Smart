@@ -1,0 +1,6 @@
+{
+  "name": "Digital Smart — ฉลาดใช้ชีวิตในโลกดิจิทัล",
+  "description": "เว็บแอปพลิเคชันเพื่อการศึกษา พัฒนาทักษะ Digital Literacy สำหรับนักเรียนและนักศึกษา เสริมเกราะป้องกันภัยไซเบอร์ รู้เท่าทันข่าวปลอม ปกป้องข้อมูลส่วนตัว และสื่อสารอย่างสร้างสรรค์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
